@@ -10,6 +10,5 @@ public class HelloWorld {
         String test = "a";
 
         System.out.println("a");
-        
     }
 }
