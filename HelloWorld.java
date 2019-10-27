@@ -9,8 +9,7 @@ public class HelloWorld {
 
         String test = "a";
 
-        if (test == "a") {
-            System.out.println("a");
-        }
+        System.out.println("a");
+        
     }
 }
