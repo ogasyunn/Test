@@ -12,12 +12,5 @@ public class HelloWorld {
         if (test == "a") {
             System.out.println("a");
         }
-
-        test = "";
-
-        if (test == "a") {
-            System.out.println("b");
-        }
     }
-
 }
