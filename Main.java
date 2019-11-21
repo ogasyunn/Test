@@ -18,9 +18,6 @@ class Main {
         else if (option == 2) {
             wd.window();
         }
-        else if (option == 3) {
-            
-        }
 
         input.close();
 
