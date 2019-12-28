@@ -5,6 +5,7 @@ class Main {
         
         HelloWorld hw = new HelloWorld();
         Window wd = new Window();
+        Top top = new Top();
 
         Scanner input = new Scanner(System.in);
         int option = input.nextInt();
@@ -17,6 +18,9 @@ class Main {
         }
         else if (option == 2) {
             wd.window();
+        }
+        else if (option == 3) {
+            top.window();
         }
 
         input.close();

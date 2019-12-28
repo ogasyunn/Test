@@ -1,12 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
-
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-//import javax.swing.border.BevelBorder;
+import javax.swing.*;
 
 public class Window extends JFrame implements ActionListener {
 
