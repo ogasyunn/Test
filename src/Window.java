@@ -18,6 +18,7 @@ public class Window extends JFrame implements ActionListener {
     }
 
     Window() {
+
         setBounds(100, 50, 700, 600);
 
         int size = width * heighet;
@@ -95,7 +96,7 @@ public class Window extends JFrame implements ActionListener {
 
         //Judger jg = new Judger();
 
-        JLabel l = new JLabel();;
+        JLabel l = new JLabel();
 
         int num = Integer.parseInt(e.getActionCommand());
 
