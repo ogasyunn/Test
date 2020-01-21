@@ -1,5 +1,5 @@
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
+import javax.swing.*;
+
 class Top {
     Window wd = new Window();
     public void window() {
